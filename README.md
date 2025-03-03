@@ -89,4 +89,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## UI IMages
 
-![alt text](image-1.png)
+![APP UI IMAGE](image-1.png)
