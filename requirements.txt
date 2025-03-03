@@ -1,0 +1,9 @@
+flask 
+pandas 
+numpy 
+scikit-learn 
+langgraph 
+google-generativeai 
+joblib
+langchain-google-genai 
+plotly
