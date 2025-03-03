@@ -32,7 +32,7 @@ class DataScienceState(TypedDict):
     model_object: Annotated[Optional[object], lambda _old, new: new]
     model_metrics: Annotated[Optional[dict], lambda _old, new: new]
 
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro", temperature=0.3, api_key="AIzaSyCF-jMEoZr2ji5kmJvYg4HQGWG--Bq8n84")
+llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro", temperature=0.3, api_key="Paste gemini API key here")
 from pandas.api.types import is_integer_dtype
 
 def convert_int64_columns(df: pd.DataFrame) -> pd.DataFrame:

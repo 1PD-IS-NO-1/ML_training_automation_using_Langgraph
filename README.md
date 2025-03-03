@@ -86,3 +86,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Project workflow
 
 ![IMAGE WORKFLOW](image.png)
+
+## UI IMages
+
+![alt text](image-1.png)
